@@ -1,0 +1,10 @@
+{
+    "name": "vold-utils",
+    "description": "Utilitys for Jetpacks (commit e911db7)",
+    "author": "Erik Vold (http://erikvold.com/) <erikvvold@gmail.com>",
+    "version": "2.0.0",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/flying-sheep/vold-utils.git"
+    }
+}
